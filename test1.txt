@@ -3,5 +3,6 @@ I am from Bangladesh.
 I Hava completed my HSC in 2018.
 I have completed my SSC in 2015-16.
 I Love India and the USA.
-I have started my full stack web developement job in 2020.
-I will join MFile first of december.
+I started my full-stack web development job in 2020.
+I will join MFile on the first of December.
+Logo alignment is centred.
