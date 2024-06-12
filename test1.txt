@@ -8,3 +8,4 @@ I will join MFile on the first of December.
 Logo alignment is centred.
 I created the issue about the bug.
 New line is added to the feature branch...by default
+
