@@ -7,4 +7,5 @@ I started my full-stack web development job in 2020.
 I will join MFile on the first of December.
 Logo alignment is centred.
 I created the issue about the bug.
-New line is added in feature branch.
+New line is added to the feature branch...by default
+
